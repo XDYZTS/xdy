@@ -1,0 +1,5 @@
+langchain
+langchain_openai
+pypdf
+langchain_community
+azure-ai-documentintelligence
